@@ -1,5 +1,8 @@
 # Intro to Reinforcement Learning (强化学习纲要）
 ![teaser](asset/teaser.png)
+## Overview
+This short course will introduce basic concepts of reinforcement learning in a nutshell. Slides will be made in English and lectures will be given by [Bolei](http://bzhou.ie.cuhk.edu.hk/) in Chinese. The course is for entertainment only.  
+
 ## Course Schedule
 The short course will be arranged as follows. Lectures 1-8 will be the foundation, the others will be the advanced topics, which are optional.
 
