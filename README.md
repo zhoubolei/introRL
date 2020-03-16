@@ -8,7 +8,7 @@ The short course will be arranged as follows. Lectures 1-8 will be the foundatio
 
 |            	| Topic                                      	| Resources 	|
 |------------	|--------------------------------------------	|-----------	|
-|  Lecture 1 	| Overview                                   	|           	|
+|  Lecture 1 	| Overview                                   	|[slide](lecture1.pdf)           	|
 |  Lecture 2 	| Markov Decision Process                    	|           	|
 |  Lecture 3 	| Model-free Prediction and Control          	|           	|
 |  Lecture 4 	| On-policy and Off-policy Learning          	|           	|
