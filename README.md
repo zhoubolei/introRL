@@ -8,8 +8,8 @@ The short course will be arranged as follows. Lectures 1-8 will be the foundatio
 
 |            	| Topic                                      	| Resources 	|
 |------------	|--------------------------------------------	|-----------	|
-|  Lecture 1 	| Overview                                   	|[slide](lecture1.pdf), [video1](https://www.bilibili.com/video/av96436833/), [video2](https://www.bilibili.com/video/av96834288/) |
-|  Lecture 2 	| Markov Decision Process                    	|           	|
+|  Lecture 1 	| Overview                                   	|[slide](lecture1.pdf), [youtube1](https://www.youtube.com/watch?v=IkEF4LpH5Ys), [youtube2](https://www.youtube.com/watch?v=Qu8CPnnwplM), [B站1](https://www.bilibili.com/video/av96436833/), [B站2](https://www.bilibili.com/video/av96834288/)  |
+|  Lecture 2 	| Markov Decision Process                    	| [slide](lecture2.pdf), [youtube1](https://www.youtube.com/watch?v=6yE9XiIB3hQ), [youtube2](https://www.youtube.com/watch?v=MIZbocCu7Sk), [B站1](https://www.bilibili.com/video/av98583371/), [B站2](https://www.bilibili.com/video/av98583913/) |
 |  Lecture 3 	| Model-free Prediction and Control          	|           	|
 |  Lecture 4 	| On-policy and Off-policy Learning          	|           	|
 |  Lecture 5 	| Value Function Approximation               	|           	|
