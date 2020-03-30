@@ -8,9 +8,9 @@ The short course will be arranged as follows. Lectures 1-8 will be the foundatio
 
 |            	| Topic                                      	| Resources 	|
 |------------	|--------------------------------------------	|-----------	|
-|  Lecture 1 	| Overview                                   	|[slide](lecture1.pdf), [youtube1](https://www.youtube.com/watch?v=IkEF4LpH5Ys), [youtube2](https://www.youtube.com/watch?v=Qu8CPnnwplM), [B站1](https://www.bilibili.com/video/av96436833/), [B站2](https://www.bilibili.com/video/av96834288/)  |
-|  Lecture 2 	| Markov Decision Process                    	| [slide](lecture2.pdf), [youtube1](https://www.youtube.com/watch?v=6yE9XiIB3hQ), [youtube2](https://www.youtube.com/watch?v=MIZbocCu7Sk), [B站1](https://www.bilibili.com/video/av98583371/), [B站2](https://www.bilibili.com/video/av98583913/) |
-|  Lecture 3 	| Model-free Prediction and Control          	|  [slide](lecture2.pdf), [youtube1](https://www.youtube.com/watch?v=Duj1U73yHik), [youtube2](https://www.youtube.com/watch?v=sfkhinBjGGY) B站1, B站2 |
+|  Lecture 1 	| Overview                                   	|[slide](lecture1.pdf), Youtube([part1](https://www.youtube.com/watch?v=IkEF4LpH5Ys), [part2](https://www.youtube.com/watch?v=Qu8CPnnwplM)), B站([上集](https://www.bilibili.com/video/BV1LE411G7Xj/), [下集](https://www.bilibili.com/video/BV1g7411Z7SJ/))  |
+|  Lecture 2 	| Markov Decision Process                    	| [slide](lecture2.pdf), Youtube([part1](https://www.youtube.com/watch?v=6yE9XiIB3hQ), [part2](https://www.youtube.com/watch?v=MIZbocCu7Sk)), B站([上集](https://www.bilibili.com/video/BV1g7411m7Ms/), [下集](https://www.bilibili.com/video/BV1u7411m7rh/)) |
+|  Lecture 3 	| Model-free Prediction and Control          	|  [slide](lecture2.pdf), Youtube([part1](https://www.youtube.com/watch?v=Duj1U73yHik), [part2](https://www.youtube.com/watch?v=sfkhinBjGGY)), B站([上集](https://www.bilibili.com/video/BV1N7411Q7aJ/), [下集](https://www.bilibili.com/video/BV1N7411Q7M6/)) |
 |  Lecture 4 	| Value Function Approximation               	|           	|
 |  Lecture 5 	| Policy Optimization: Basics                	|           	|
 |  Lecture 6 	| Policy Optimization: State of the art      	|           	|
