@@ -10,7 +10,7 @@ The short course is scheduled as follows. Lectures 1-7 will be the foundation, t
 |  Lecture 1 	| Overview                                   	|[slide](lecture1.pdf), Youtube([part1](https://www.youtube.com/watch?v=IkEF4LpH5Ys), [part2](https://www.youtube.com/watch?v=Qu8CPnnwplM)), B站([上集](https://www.bilibili.com/video/BV1LE411G7Xj/), [下集](https://www.bilibili.com/video/BV1g7411Z7SJ/))  |
 |  Lecture 2 	| Markov Decision Process                    	| [slide](lecture2.pdf), Youtube([part1](https://www.youtube.com/watch?v=6yE9XiIB3hQ), [part2](https://www.youtube.com/watch?v=MIZbocCu7Sk)), B站([上集](https://www.bilibili.com/video/BV1g7411m7Ms/), [下集](https://www.bilibili.com/video/BV1u7411m7rh/)) |
 |  Lecture 3 	| Model-free Prediction and Control          	|  [slide](lecture2.pdf), Youtube([part1](https://www.youtube.com/watch?v=Duj1U73yHik), [part2](https://www.youtube.com/watch?v=sfkhinBjGGY)), B站([上集](https://www.bilibili.com/video/BV1N7411Q7aJ/), [下集](https://www.bilibili.com/video/BV1N7411Q7M6/)) |
-|  Lecture 4 	| Value Function Approximation               	|           	|
+|  Lecture 4 	| Value Function Approximation               	|[slide](lecture4.pdf), Youtube([part1](https://www.youtube.com/watch?v=YdWsnB-u8PQ), [part2](https://www.youtube.com/watch?v=fGIaFlbBFxk)), B站([上集](https://www.bilibili.com/video/BV11V411f7bi/), [下集](https://www.bilibili.com/video/BV1w54y1d7se/))  |
 |  Lecture 5 	| Policy Optimization: Basics                	|           	|
 |  Lecture 6 	| Policy Optimization: State of the art      	|           	|
 |  Lecture 7 	| Model-based RL                             	|           	|
