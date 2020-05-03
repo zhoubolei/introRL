@@ -13,7 +13,7 @@ The short course is scheduled as follows. Lectures 1-7 will be the foundation, t
 |  Lecture 4 	| Value Function Approximation               	|[slide](lecture4.pdf), Youtube([part1](https://www.youtube.com/watch?v=YdWsnB-u8PQ), [part2](https://www.youtube.com/watch?v=fGIaFlbBFxk)), B站([上集](https://www.bilibili.com/video/BV11V411f7bi/), [下集](https://www.bilibili.com/video/BV1w54y1d7se/))  |
 |  Lecture 5 	| Policy Optimization: Foundation             |[slide](lecture5.pdf), Youtube([part1](https://www.youtube.com/watch?v=ProKaoyduFY), [part2](https://www.youtube.com/watch?v=MWXazkQkTlk)), B站([上集](https://www.bilibili.com/video/BV1fZ4y1x7mp/), [下集](https://www.bilibili.com/video/BV1ia4y1x7Va/))            	|
 |  Lecture 6 	| Policy Optimization: State of the art      	|[slide](lecture6.pdf), Youtube([part1](https://youtu.be/4YIdjLh-MJs), [part2](https://youtu.be/HOpiQWM0PCA)), B站([上集](https://www.bilibili.com/video/BV1s64y1M7AW/), [下集](https://www.bilibili.com/video/BV1EK41157fD/))  |
-|  Lecture 7 	| Model-based RL                             	|           	|
+|  Lecture 7 	| Model-based RL                             	|[slide](lecture7.pdf), [Youtube](https://youtu.be/2Cy8ZX16pBU), [B站](https://www.bilibili.com/video/BV1hV411d7Sg/)|
 |  Lecture 8 	| Imitation Learning                         	|           	|
 | Lecture 9 	| Distributed computing and RL system design 	|           	|
 | Lecture 10 	| Case Study on AlphaGo Series               	|           	|
