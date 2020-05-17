@@ -15,6 +15,6 @@ The short course is scheduled as follows. Lectures 1-7 will be the foundation, t
 |  Lecture 6 	| Policy Optimization: State of the art      	|[slide](lecture6.pdf), Youtube([part1](https://youtu.be/4YIdjLh-MJs), [part2](https://youtu.be/HOpiQWM0PCA)), B站([上集](https://www.bilibili.com/video/BV1s64y1M7AW/), [下集](https://www.bilibili.com/video/BV1EK41157fD/))  |
 |  Lecture 7 	| Model-based RL                             	|[slide](lecture7.pdf), [Youtube](https://youtu.be/2Cy8ZX16pBU), [B站](https://www.bilibili.com/video/BV1hV411d7Sg/)|
 |  Lecture 8 	| Imitation Learning                         	|[slide](lecture8.pdf), [Youtube](https://youtu.be/Sqvn6RxU8qk), [B站](https://www.bilibili.com/video/BV17k4y1k7Gu/)           	|
-| Lecture 9 	| Distributed computing and RL system design 	|           	|
+| Lecture 9 	| Distributed systems for RL 	|[slide](lecture9.pdf), [Youtube](https://youtu.be/PyHGeFFfaWk), [B站](https://www.bilibili.com/video/BV1bi4y147Rv/)           	|
 | Lecture 10 	| RL in a nutshell|           	|
 
