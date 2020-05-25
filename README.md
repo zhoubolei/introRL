@@ -3,7 +3,7 @@
 This short RL course introduces the basic concepts of reinforcement learning in a nutshell. Slides are made in English and lectures are given by [Bolei](http://bzhou.ie.cuhk.edu.hk/) in Chinese. The course is for personal entertainment only.  
 
 ## Course Schedule
-The short course is scheduled as follows. Lectures 1-7 will be the foundation, the others will be the advanced topics, which are optional.
+The short course is scheduled as follows. There are 10 lectures in total, where the first last is premiered on 16 March 2020 and the last lecture is finished on 25 May 2020. Thanks for watching and may ReinForce Be with You. 
 
 |            	| Topic                                      	| Resources 	|
 |------------	|--------------------------------------------	|-----------	|
@@ -16,5 +16,5 @@ The short course is scheduled as follows. Lectures 1-7 will be the foundation, t
 |  Lecture 7 	| Model-based RL                             	|[slide](lecture7.pdf), [Youtube](https://youtu.be/2Cy8ZX16pBU), [B站](https://www.bilibili.com/video/BV1hV411d7Sg/)|
 |  Lecture 8 	| Imitation Learning                         	|[slide](lecture8.pdf), [Youtube](https://youtu.be/Sqvn6RxU8qk), [B站](https://www.bilibili.com/video/BV17k4y1k7Gu/)           	|
 | Lecture 9 	| Distributed systems for RL 	|[slide](lecture9.pdf), [Youtube](https://youtu.be/PyHGeFFfaWk), [B站](https://www.bilibili.com/video/BV1bi4y147Rv/)           	|
-| Lecture 10 	| RL in a nutshell|           	|
+| Lecture 10 	| RL in a nutshell|[slide](lecture10.pdf), [Youtube](https://youtu.be/bDGmKVKAdHg), [B站](https://www.bilibili.com/video/BV1si4y1s7oQ/)           	|
 
