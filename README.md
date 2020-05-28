@@ -1,9 +1,9 @@
 ![teaser](asset/teaser.png)
 ## Overview
-This short RL course introduces the basic knowledge of reinforcement learning. Slides are made in English and lectures are given by [Bolei Zhou](http://bzhou.ie.cuhk.edu.hk/) in Chinese. The course is for personal entertainment only.  
+This short RL course introduces the basic knowledge of reinforcement learning. Slides are made in English and lectures are given by [Bolei Zhou](http://bzhou.ie.cuhk.edu.hk/) in Mandarin. The course is for personal educational use only. Please open an issue if you spot some typos or errors in the slides. 
 
 ## Course Schedule
-The course is scheduled as follows. There are 10 lectures in total, where the first last is premiered on 16 March 2020 and the last lecture is finished on 25 May 2020. Thanks for watching and may ReinForce be with you!
+The course is scheduled as follows. There are 10 lectures in total, where the first one was premiered on 16 March 2020 and the last one was finished on 25 May 2020. Thanks for watching and may ReinForce be with you!
 
 |            	| Topic                                      	| Resources 	|
 |------------	|--------------------------------------------	|-----------	|
