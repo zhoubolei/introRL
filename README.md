@@ -5,8 +5,8 @@ This short RL course introduces the basic knowledge of reinforcement learning. S
 ## Course Schedule
 The course is scheduled as follows. There are 10 lectures in total, where the first one was premiered on 16 March 2020 and the last one was finished on 25 May 2020. Thanks for watching and may ReinForce be with you!
 
-|            	| Topic                                      	| Resources 	|
-|------------	|--------------------------------------------	|-----------	|
+|            	  | Topic                                      	  | Resources |
+|--------------	|----------------------------------------------	|----------	|
 |  Lecture 1 	| Overview (课程概括与RL基础)                                   	|[slide](lecture1.pdf), Youtube([part1](https://www.youtube.com/watch?v=IkEF4LpH5Ys), [part2](https://www.youtube.com/watch?v=Qu8CPnnwplM)), B站([上集](https://www.bilibili.com/video/BV1LE411G7Xj/), [下集](https://www.bilibili.com/video/BV1g7411Z7SJ/))  |
 |  Lecture 2 	| Markov Decision Process (马尔科夫决策过程)                    	| [slide](lecture2.pdf), Youtube([part1](https://www.youtube.com/watch?v=6yE9XiIB3hQ), [part2](https://www.youtube.com/watch?v=MIZbocCu7Sk)), B站([上集](https://www.bilibili.com/video/BV1g7411m7Ms/), [下集](https://www.bilibili.com/video/BV1u7411m7rh/)) |
 |  Lecture 3 	| Model-free Prediction and Control (无模型的预测和控制)          	|  [slide](lecture3.pdf), Youtube([part1](https://www.youtube.com/watch?v=Duj1U73yHik), [part2](https://www.youtube.com/watch?v=sfkhinBjGGY)), B站([上集](https://www.bilibili.com/video/BV1N7411Q7aJ/), [下集](https://www.bilibili.com/video/BV1N7411Q7M6/)) |
