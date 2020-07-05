@@ -17,4 +17,4 @@ The course is scheduled as follows. There are 10 lectures in total, where the fi
 |  Lecture8 	| Imitation Learning (模仿学习)                         	|[slide](lecture8.pdf), [Youtube](https://youtu.be/Sqvn6RxU8qk), [B站](https://www.bilibili.com/video/BV17k4y1k7Gu/)           	|
 | Lecture9 	| Distributed systems for RL (分布式系统) 	|[slide](lecture9.pdf), [Youtube](https://youtu.be/PyHGeFFfaWk), [B站](https://www.bilibili.com/video/BV1bi4y147Rv/)           	|
 | Lecture10 	| RL in a nutshell (课程结局篇)|[slide](lecture10.pdf), [Youtube](https://youtu.be/bDGmKVKAdHg), [B站](https://www.bilibili.com/video/BV1si4y1s7oQ/)           	|
-
+| Bonus 1 	| DeepMind's AlphaStar Explained (剖析星际争霸AI)|[slide](lecture_alphastar.pdf), [Youtube](https://youtu.be/kXfACOrWaLs), [B站](https://www.bilibili.com/video/BV1wa4y1e74G/)           	|
